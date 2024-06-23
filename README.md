@@ -1,4 +1,9 @@
 # worldart
+<p>HAll0, W0RlD. </p>
+<p>Welcome to my personal backyard.</p>
+
+More testing space:
+https://readyggplayer.com/
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/worldart/worldart/output/github-contribution-grid-snake-dark.svg">
