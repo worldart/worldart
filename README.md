@@ -1,8 +1,8 @@
 # worldart
 <p>HAll0, W0RlD. </p>
-<p>Welcome to my personal backyard ☃️ I power: hidd.xyz ⚜️
-Bienvenue dans mon jardin privé!
-_Frozen time💠trivia ..٩(˃̶͈̀௰˂̶͈́)و🖼💙🇫🇷💚🇮🇹🍝
+<p>Welcome to my personal backyard ☃️ I power: hidd.xyz ⚜️ </br>
+Bienvenue dans mon jardin privé! </br>
+_Frozen time💠trivia ..٩(˃̶͈̀௰˂̶͈́)و🖼💙🇫🇷💚🇮🇹🍝 </br>
 //📍London 🇬🇧 -researcher🃏 </p>
 
 More testing space:
