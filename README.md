@@ -7,7 +7,8 @@ _Frozen time💠trivia ..٩(˃̶͈̀௰˂̶͈́)و🖼💙🇫🇷💚🇮🇹�
 
 More testing space:
 https://readyggplayer.com/ </br>
-Git.io testing page: https://worldart.github.io
+Git.io testing page: https://worldart.github.io</br>
+If you fancy this snake, here is the repo with setting setups. Feel free to <a href="https://github.com/worldart/fork-this-snake"> fork-this-snake </a> </br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/worldart/worldart/output/github-contribution-grid-snake-dark.svg">
