@@ -1,5 +1,6 @@
 # worldart
-<body margin-left: 7%; margin-right: 7%;line-height: 5000;>
+#margin-left: 7%; margin-right: 7%;line-height: 5000;
+<body>
 <p>HAll0, W0RlD. </p>
 <p>Welcome to my personal backyard ☃️ I power: <a href="https://www.instagram.com/hidd.xyz/">hidd.xyz</a> ⚜️ </br>
 Bienvenue dans mon jardin privé! </br>
