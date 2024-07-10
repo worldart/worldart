@@ -1,11 +1,11 @@
 # worldart
-
+<html>
 <style> {
   word-wrap: break-word;
 }
 
   .ex001 {  margin-left: 7% ; margin-right: 7% ;line-height: 1.2;}
-  </style>
+</style>
 
 <body > 
   <div class="ex001"> 
@@ -27,3 +27,4 @@ If you fancy this snake, here is the repo with setting setups. Feel free to <a h
 </picture>
 </div>
 </body>
+</html>
