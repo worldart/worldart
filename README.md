@@ -1,13 +1,6 @@
 # worldart
 <html>
-<style> {
-  word-wrap: break-word;
-}
 
-  .ex001 {  margin-left: 7% ; margin-right: 7% ;line-height: 1.2;}
-</style>
-
-<body > 
   <div class="ex001"> 
 <p>HAll0, W0RlD. </p>
 <p>Welcome to my personal backyard ☃️ I power: <a href="https://www.instagram.com/hidd.xyz/">hidd.xyz</a> ⚜️ </br>
