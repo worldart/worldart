@@ -1,6 +1,8 @@
 # worldart
 
 <html>
+
+ 
  <body>
   <div class="ex001"> 
 <p>HAll0, W0RlD. </p>
@@ -21,4 +23,6 @@ If you fancy this snake, here is the repo with setting setups. Feel free to <a h
 </picture>
 </div>
 </body>
+
+
 </html>
