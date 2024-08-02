@@ -5,7 +5,9 @@
 
  
  <body>
+  
   <div class="ex001"> 
+   
 <p>HAll0, W0RlD. </p>
 <p>Welcome to my personal backyard ☃️ I power: <a href="https://www.instagram.com/hidd.xyz/">hidd.xyz</a> ⚜️ </br>
 Bienvenue dans mon jardin privé! </br>
@@ -22,7 +24,9 @@ If you fancy this snake, here is the repo with setting setups. Feel free to <a h
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/worldart/worldart/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/worldart/worldart/output/github-contribution-grid-snake.svg">
 </picture>
+
 </div>
+
 </body>
 
 
