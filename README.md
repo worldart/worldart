@@ -15,7 +15,7 @@ _Frozen time💠trivia ..٩(˃̶͈̀௰˂̶͈́)و🖼💙🇫🇷💚🇮🇹�
 
 More testing space:
 https://readyggplayer.com/ </br>
-Git.io testing page: https://worldart.github.io</br>
+Git.io page: https://worldart.github.io</br>
 If you fancy this snake, here is the repo with setting setups. Feel free to <a href="https://github.com/worldart/fork-this-snake"> fork-this-snake </a> </br>
 
 <picture>
@@ -24,7 +24,6 @@ If you fancy this snake, here is the repo with setting setups. Feel free to <a h
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/worldart/worldart/output/github-contribution-grid-snake.svg">
 </picture>
 
-  Copyright © 2024 KW. All rights reserved.
 </div>
 
 </body>
