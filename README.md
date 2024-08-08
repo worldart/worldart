@@ -24,6 +24,7 @@ If you fancy this snake, here is the repo with setting setups. Feel free to <a h
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/worldart/worldart/output/github-contribution-grid-snake.svg">
 </picture>
 
+  Copyright © 2024 KW. All rights reserved.
 </div>
 
 </body>
