@@ -7,6 +7,7 @@
   <div class="ex001"> 
    
 <p>HAll0, W0RlD. </p>
+
 <p>Welcome to my personal backyard ☃️ I power: <a href="https://www.instagram.com/hidd.xyz/">hidd.xyz</a> ⚜️ </br>
 Bienvenue dans mon jardin privé! </br>
 _Frozen time💠trivia ..٩(˃̶͈̀௰˂̶͈́)و🖼💙🇫🇷💚🇮🇹🍝 </br>
