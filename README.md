@@ -26,7 +26,7 @@ If you fancy this snake, here is the repo with setting setups. Feel free to <a h
 </picture>
 
 </div>
-
+   
 </body>
 
 
